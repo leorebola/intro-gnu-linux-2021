@@ -198,6 +198,11 @@ grep -r TEXTO_BUSCAR /path/to/directory/
 
 Regex cheat sheet: https://cheatography.com/doublehelix/cheat-sheets/the-complete-regex/
 
+
+```console
+grep -E 'REGEX' filename.txt
+```
+
 ### Ejercicios:
 
 Usando la web: https://regex101.com/
